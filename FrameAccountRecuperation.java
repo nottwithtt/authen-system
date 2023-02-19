@@ -82,6 +82,8 @@ public class FrameAccountRecuperation extends javax.swing.JFrame {
         emailField.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         emailField.setBorder(null);
 
+        logoPanel.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/LogoSoftware.png"))); // NOI18N
+
         javax.swing.GroupLayout firstLayerPanelLayout = new javax.swing.GroupLayout(firstLayerPanel);
         firstLayerPanel.setLayout(firstLayerPanelLayout);
         firstLayerPanelLayout.setHorizontalGroup(
